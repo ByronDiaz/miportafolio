@@ -1,0 +1,27 @@
+.academic{
+    width: 100%;
+    background: #EAF2FD;
+    margin-top: 5rem;
+    padding-top: 1rem;
+}
+@media screen and (min-width: 0) {
+    .academic{
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: 850px;
+    }
+
+}
+@media screen and (min-width: 768px) {
+    .academic{
+        height: 400px;
+        align-items: center;
+    }
+    
+}
+@media screen and (min-width: 1024px) {
+    .academic{
+        height: 650px;
+    }
+    
+}

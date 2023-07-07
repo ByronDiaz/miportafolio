@@ -1,0 +1,25 @@
+.skills__line{
+    display: flex;
+    justify-content: space-between;
+ 
+}
+@media screen and (min-width: 0) {
+    .skills__line{
+        flex-wrap: wrap;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}
+@media screen and (min-width: 768px) {
+    .skills__line{
+        flex-wrap: wrap;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}   
+@media screen and (min-width: 1024px) {
+    .skills__line{
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}   

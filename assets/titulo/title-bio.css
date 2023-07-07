@@ -1,0 +1,24 @@
+.title__bio{
+    font-family: Raleway;
+    font-weight: 700;
+    line-height: 61px;
+    letter-spacing: 0em;
+    color: #464646;
+   
+}
+@media screen and (min-width: 0) {
+    .title__bio{
+        font-size: 35px;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+}
+@media screen and (min-width: 768px) {
+   .title__bio{
+        font-size: 52px;
+        margin-left: 5rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+}

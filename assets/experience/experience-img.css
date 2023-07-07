@@ -1,0 +1,47 @@
+
+@media screen and (min-width: 0) {
+    .experience__img{
+        width: 296px;
+        height: 144px;
+        margin-left: 1rem;
+
+    }
+    .experience__img-reverse {
+        width: 296px;
+        height: 144px;
+        margin-left: 1rem;
+    }
+
+
+ }
+
+@media screen and (min-width: 768px) {
+    .experience__img{
+        width: 704px;
+        height: 320px;
+        margin-left: 0.5rem;
+
+    }
+
+    .experience__img-reverse {
+        width: 704px;
+        height: 320px;
+        margin-left: 0.5rem;
+    }    
+}
+@media screen and (min-width: 1024px) {
+    .experience__img{
+        width: 752px;
+        height: 406px;
+        margin-left: 2rem;
+
+    }
+
+    .experience__img-reverse {
+        width: 752px;
+        height: 406px;
+        margin-right: 2rem;
+    }
+
+
+}

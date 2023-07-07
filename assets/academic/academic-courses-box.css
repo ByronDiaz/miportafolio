@@ -1,0 +1,31 @@
+.academic__courses__box{
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 0) {
+    .academic__courses__box{
+        margin-top: 5rem;
+        width: 296px;
+        height: 118px;
+        margin-left: 2rem;
+    }
+
+}
+@media screen and (min-width: 768px) {
+    .academic__courses__box{
+        width: 224px;
+        height: 118px;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+}
+@media screen and (min-width: 1024px) {
+    .academic__courses__box{
+        width: 328px;
+        height: 347px;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+}

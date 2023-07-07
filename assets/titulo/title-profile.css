@@ -1,0 +1,6 @@
+.title__profile{
+    width: calc(25% - 30px);
+    margin-top: 2rem;
+    margin-right: 5rem;
+    margin-bottom: 2rem;
+}

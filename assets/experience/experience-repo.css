@@ -1,0 +1,10 @@
+.experiencia__botao--repo{
+    width: 116px;
+    height:51px;
+    padding: 16px;
+    border: 1px #2A7AE4 solid;
+    background: white;
+    color: #2A7AE4;
+    margin-right: 1rem;
+    cursor: pointer;
+}

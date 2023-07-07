@@ -1,0 +1,23 @@
+.hobbies__box{
+    margin-top: 2rem;
+    background: #FFFFFF;
+}
+@media screen and (min-width: 0) {
+    .hobbies__box{
+        width: 150px;
+        height: 174px;
+        
+    }
+}
+@media screen and (min-width: 768px) {
+   .hobbies__box{
+    width: 180px;
+    height: 174px;
+   }
+}   
+@media screen and (min-width: 1024px) {
+  .hobbies__box{
+    width: 150px;
+    height: 174px;
+  }
+}   

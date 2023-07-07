@@ -1,0 +1,23 @@
+.skills__box{
+    background: #ffffff;
+    margin-bottom: 1rem;
+}
+@media screen and (min-width: 0) {
+    .skills__box{
+        width: 150px;
+        height: 174px;
+        
+    }
+}
+@media screen and (min-width: 768px) {
+   .skills__box{
+    width: 180px;
+    height: 174px;
+   }
+}   
+@media screen and (min-width: 1024px) {
+  .skills__box{
+    width: 150px;
+    height: 174px;
+  }
+}   
