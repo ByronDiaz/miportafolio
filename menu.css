@@ -1,0 +1,7 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-right: 1.7rem;
+    
+}

@@ -1,0 +1,20 @@
+.experiencie__box{
+    display: flex;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+@media screen and (min-width: 0) {
+    .experiencie__box{
+        flex-direction: column;
+    }
+    }
+
+@media screen and (min-width: 1024px) {
+    .experiencie__box{
+        flex-direction: row;
+    }
+    .reverse{
+        flex-direction: row-reverse;
+    }
+}
